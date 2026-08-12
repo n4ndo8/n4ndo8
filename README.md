@@ -1,23 +1,126 @@
-<h1 align="center">Oi👋, me chamo Fernando Andrade</h1>
-<h3 align="center">Um Brasileiro apaixonado por tecnologia</h3>
+# 👋 Olá! Eu sou Fernando Andrade
 
-- Atualmente trabalhando no projeto **Educativ.ia**
+### 💻 Desenvolvedor em formação | Estudante de Análise e Desenvolvimento de Sistemas
 
-- Atualmente focado em entender a **Linguagem C**
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no **3º período**, apaixonado por tecnologia e desenvolvimento de soluções.
 
-- Sempre a disposição para ajudar com **Backend e Inteligencia artificial**
+Estou construindo minha carreira na área de **TI**, com interesse especial em **QA e Testes de Software**, além de ter como objetivo futuro me especializar em **Segurança da Informação**.
 
-- Sempre tentando entender mais um pouco de **Novas linguagens de Programação e IA**
+---
 
-- Me pergunte sobre **python, IA e cybersegurança**
+## 🚀 Sobre mim
 
-- Me manda um email **nandoandrade2006@gmail.com**
+* 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+* 💻 Conhecimentos em **Python, TypeScript, C e JavaScript**
+* 🧪 Interesse em **QA e Testes de Software**
+* 🔐 Interesse em **Segurança da Informação**
+* 🛠️ Gosto de transformar conhecimentos em projetos práticos
+* 📚 Sempre buscando aprender novas tecnologias
+* 🎯 Em busca da minha primeira oportunidade profissional na área de TI
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fernando andrade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando andrade" height="30" width="40" /></a>
-<a href="https://instagram.com/andrade.frnd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andrade.frnd" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🧰 Tecnologias & Ferramentas
+
+### Linguagens
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+
+---
+
+## 📂 Projetos
+
+### 🌱 Ecotrack
+
+Sistema desenvolvido para auxiliar condomínios no **monitoramento de consumo de água, energia, gás e geração de resíduos**.
+
+A plataforma utiliza dashboards para facilitar o acompanhamento dos dados, definição de metas de sustentabilidade e engajamento dos moradores.
+
+**Conceitos:**
+`Sustentabilidade` `Dashboards` `Gestão de Dados` `Gamificação`
+
+---
+
+### 🏥 FluiSaúde
+
+Sistema desenvolvido para auxiliar na gestão de **Unidades Básicas de Saúde (UBS)**, buscando melhorar o gerenciamento de informações e o processo de agendamento.
+
+**Tecnologia principal:**
+`Python`
+
+---
+
+### 🧠 The Boolean Bar
+
+Projeto educacional desenvolvido com o objetivo de ensinar **Lógica Proposicional** de forma interativa.
+
+Atuei principalmente na **estruturação e validação da lógica** utilizada no projeto.
+
+**Conceitos:**
+`Lógica Proposicional` `Programação` `Educação` `Game`
+
+---
+
+## 📚 Atualmente estudando
+
+```text
+🧪 QA & Testes de Software
+🗄️ SQL
+🐍 Python
+🌐 Desenvolvimento Web
+🔧 Git & GitHub
+🔐 Segurança da Informação
+```
+
+---
+
+## 🏆 Conquistas
+
+🏅 Finalista do **Demoday Kickoff Porto Digital 2025.2**
+
+🏆 Participação em **Amostras de Tecnologia** com projetos acadêmicos
+
+📜 **Cisco Networking Academy — C Essentials 1**
+
+📜 **Cisco Networking Academy — C Essentials 2**
+
+📜 **Fundamentos de Python e IA**
+
+---
+
+## 🎯 Objetivos
+
+Meu objetivo é iniciar minha carreira profissional na área de **Tecnologia da Informação**, adquirindo experiência prática e evoluindo constantemente como profissional.
+
+No curto prazo, tenho interesse em atuar com **QA e Testes de Software**. No longo prazo, pretendo me especializar em **Segurança da Informação**.
+
+---
+
+## 📊 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Vamos nos conectar?
+
+💼 **LinkedIn:** [www.linkedin.com/in/fernando-andrade-046068344](www.linkedin.com/in/fernando-andrade-046068344)
+
+📧 **E-mail:** [nandoandrade2006@gmail.com](nandoandrade2006@gmail.com)
+
+---
+
+### 💡 "Transformando aprendizado em projetos e projetos em experiência."
+
+⭐ Se algum projeto meu for interessante para você, fique à vontade para explorar os repositórios!
